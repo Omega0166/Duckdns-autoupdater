@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #CONFIGURATION FILE
-CONFIG_FILE="$HOME/AutoRS/DuckDNS_conf.txt"
+CONFIG_FILE="$HOME/Duckdns-autoupdater/DuckDNS_conf.txt"
 
 #DEFAULT CONFIGURATION
 domain=""
