@@ -100,3 +100,6 @@ Requisitos
     Conexion a internet
 
 Note: The script path (./script.sh) should be replaced with your actual script filename. The configuration file path (~/AutoRS/DuckDNS_conf.txt) can also be adjusted if needed.
+
+
+Programa creado con la ayuda de una IA.....
